@@ -68,4 +68,4 @@ The application utilizes multiple encryption techniques to ensure data security:
 This client-server chat application demonstrates the implementation of secure communication protocols and cryptographic techniques. The use of AES encryption, SHA-256 hashing, and ROT13 encryption ensures that user data is protected against unauthorized access. Through this project, we showcase the significance of cybersecurity in modern applications.
 
 ## Author
-- Akash
+- Muhammad  Akash waris
